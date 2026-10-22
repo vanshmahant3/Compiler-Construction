@@ -125,13 +125,3 @@ cc lab/
 
 ---
 
-## 🐙 Push to GitHub
-
-To push this repository to your GitHub account:
-
-```bash
-cd "cc lab"
-git remote add origin https://github.com/vanshmahant3/<repo-name>.git
-git branch -M main
-git push -u origin main
-```
